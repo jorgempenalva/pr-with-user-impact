@@ -5,7 +5,7 @@ Claude Code skill for generating PRs with concrete User Workflow Impact sections
 ## Install
 
 ```bash
-npx @anthropic-ai/claude-code skills add https://github.com/jorgempenalva/pr-with-user-impact
+npx skills add https://github.com/jorgempenalva/pr-with-user-impact
 ```
 
 ## Usage
